@@ -2,7 +2,7 @@
 Generic containers
 
 ## Dependending to others `tenacitas.lib.*` 
-The corresponding repository must be cloned aside `tenacitas.lib.container`
+The corresponding repository must be cloned aside `tenacitas.lib.async`
 
 ### Dependencies for the library
 

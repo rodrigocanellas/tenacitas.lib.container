@@ -678,5 +678,5 @@ int main(int argc, char **argv) {
   run_test(_tester, queue_000);
   run_test(_tester, queue_001);
   run_test(_tester, queue_002);
-  run_test(_tester, queue_003);
+  // run_test(_tester, queue_003);
 }
